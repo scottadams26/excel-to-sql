@@ -1,4 +1,4 @@
-CREATE TABLE ab-ny (
+CREATE TABLE ab_ny (
         id TEXT NOT NULL,
         name TEXT NOT NULL,
         host_id TEXT NOT NULL,
